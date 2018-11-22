@@ -1,0 +1,44 @@
+header {
+
+	background-color:#F3F6E2;
+	border-style:none;
+	border-color: black;
+	border-width: 5px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+	body {
+	
+	background-image: url(../Imagens/biblioteca.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+	.button {
+
+	background-color: #5CADEA;
+	border: none;
+	padding: 5px 30px;
+	color: white;
+	cursor: pointer;
+    font-family: Quattrocento Sans;
+        font-size: 15px;
+}
+        
+    .titulo {
+    
+        font-family: Allerta Stencil;
+        color:aliceblue;
+        font-size: 80px;
+            
+        }
+        
+    .titulo2 {
+            
+          color: black;
+          font-family: Quattrocento Sans;
+            
+        }
